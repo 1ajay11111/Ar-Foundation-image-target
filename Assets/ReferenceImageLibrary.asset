@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5343355782218138479
+  m_GuidHigh: 3143724522583048116
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5128795540880116535
+      m_GuidHigh: 13398328759279849663
+    m_SerializedTextureGuid:
+      m_GuidLow: 3446472747035748711
+      m_GuidHigh: 7483420873028667691
+    m_Size: {x: 0.22, y: 0.2766418}
+    m_SpecifySize: 0
+    m_Name: Wind-turbine-icon.svg_copy_804x1011
+    m_Texture: {fileID: 0}
